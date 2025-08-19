@@ -14,6 +14,8 @@ Each episode features an original song sung by the character it highlights, blen
 
 **"Echoes"** is the first animated series where every episode is a complete musical experience—think "Hamilton" meets "Rick and Morty" meets "The Matrix." The heroes' personal secrets (each revealed in separate seasons) create immediate character drama, while the dimensional collapse concept provides an ever-expanding scope that keeps audiences guessing.
 
+**Unique Edge:** The series draws from ancient Hebrew/Semitic mythology and the concept of "Otot" (signals/miracles) rather than overused Nordic runes. Each character's power is tied to an ancient Hebrew letter with deep mystical significance—signals from another dimension, divine intervention, or reflections of inner truth. This creates a fresh, culturally rich foundation that sets the series apart from typical fantasy content. The different episodes will sometime introduce characters, monsters and entities that have deep connections to the ancient mythology.
+
 ## **The Market (15 seconds)**
 
 Perfect for Gen Z and Millennial audiences who love animated series, musical content, and complex storytelling. Each episode works as standalone content for social media while building a larger narrative for dedicated fans.
