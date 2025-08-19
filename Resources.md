@@ -112,6 +112,8 @@ Tone: Light, enjoyable, with subtle tension and dark humor.
 
 ### 1. The Enosh (Dominant Species)
 
+**Demonym:** Enoshi
+
 **Physical Traits:** Tall, elegant humanoids with luminous eyes that change color based on emotion. Their skin has a subtle iridescent quality, and they possess elongated, pointed ears. They have an innate ability to manipulate energy fields around them.
 
 **Culture & Society:**
@@ -167,6 +169,8 @@ Tone: Light, enjoyable, with subtle tension and dark humor.
 
 ### 4. The Ferox (Wild Ones)
 
+**Demonym:** Feroxi
+
 **Physical Traits:** Beast-like humanoids with animal features (claws, fangs, enhanced senses). They have fur or scales depending on their animal heritage, and can partially transform into their animal forms. They possess enhanced strength and agility.
 
 **Culture & Society:**
@@ -183,6 +187,8 @@ Tone: Light, enjoyable, with subtle tension and dark humor.
 **Musical Style:** Raw, powerful, with tribal drums and primal energy. Their music reflects their wild nature and fighting spirit.
 
 ### 5. The Mechani (Constructed Beings)
+
+**Demonym:** Mechana
 
 **Physical Traits:** Partially mechanical humanoids with cybernetic enhancements. They have metallic skin with glowing circuits, and some have replaceable limbs or sensory organs. They can interface directly with technology.
 
@@ -201,6 +207,8 @@ Tone: Light, enjoyable, with subtle tension and dark humor.
 
 ### 6. The Umbra (Shadow Dwellers)
 
+**Demonym:** Umbral
+
 **Physical Traits:** Dark-skinned humanoids with the ability to blend into shadows and manipulate darkness. They have reflective eyes that can see in complete darkness, and can create shadow constructs. They are naturally stealthy and elusive.
 
 **Culture & Society:**
@@ -217,6 +225,8 @@ Tone: Light, enjoyable, with subtle tension and dark humor.
 **Musical Style:** Mysterious, ambient, with dark tones and subtle melodies. Their music is often barely audible, like whispers in the dark.
 
 ### 7. The Celestials (Dimensional Wanderers)
+
+**Demonym:** Celestial
 
 **Physical Traits:** Ethereal beings that seem to exist partially in other dimensions. They have translucent, star-like skin and can phase between realities. Their appearance is constantly shifting and hard to focus on.
 
