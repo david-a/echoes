@@ -49,9 +49,9 @@
 5. **Inbar (Ayn - Wisdom):**
 
    - Q: What visual elements should convey his scholarly, mystical nature?
-   - A: Taller, more slender build with an air of quiet dignity. His eyes should be deep and contemplative, often appearing to see beyond the surface. He should wear flowing robes or scholarly attire with mystical symbols subtly woven in. His hair should have a slight silver/ash tint.
+   - A: Taller, more slender build with an air of quiet dignity. His eyes should be deep and contemplative, often appearing to see beyond the surface. He stems his knowledge from the ancient natural world (which is almost unknown to the Enosh artificial world), and his knowledge is deep and vast.
    - Q: Any specific clothing or accessories that reflect his role?
-   - A: Ancient scrolls or books that float around him when his powers are active. His ot (Ayn) should glow with a deep blue/indigo color. He might wear amulets or rings with ancient symbols that pulse with energy.
+   - A: Natural, flowing, and earthy. Greenish and brownish elements, long, dark brown hair, and a beard. His ot (Ayn) should glow with a deep blue/indigo color. He might wear amulets or rings with ancient symbols that pulse with energy.
    - Q: How should his appearance reflect his spiritual awakening?
    - A: His eyes should become more luminous and otherworldly, with wisps of spiritual energy surrounding him. His movements should become more deliberate and graceful, as if he's moving through water or air with enhanced awareness.
 

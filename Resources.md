@@ -86,6 +86,7 @@ Each character will have a unique ot, and each ot will have a unique meaning and
 ### 1. Ayala (Female)
 
 - **Ot:** א (Aleph)
+- **Subtle Alter-Species tendency:** Ferox - represents the wild fauna kingdom
 - **Essence:** Wild animal, gazelle-like grace, life force, untamed power
 - **Personality:** Playful, sharp, pushing forward, unpredictable
 - **Plot role:** Brings energy and movement; tie-breaker when there are deadlocks
@@ -95,6 +96,7 @@ Each character will have a unique ot, and each ot will have a unique meaning and
 ### 2. Inbar (Male)
 
 - **Ot:** ע (Ayn)
+- **Subtle Alter-Species tendency:** Sylvari (by character) - Represents the flora kingdom, Also: Mechani (by history and betrayal)
 - **Essence:** Spirit, wisdom, amber/fire, mystery, renewal
 - **Personality:** Calm, wise, rooted, interprets hints
 - **Plot role:** Spiritual-mystical anchor; understands the bigger picture
@@ -104,8 +106,9 @@ Each character will have a unique ot, and each ot will have a unique meaning and
 ### 3. Matar (Female)
 
 - **Ot:** מ (Mem)
+- **Subtle Alter-Species tendency:** Aquarii - represent the mineral world and natural forces.
 - **Essence:** Water, flow, intuition, subconscious depth
-- **Personality:** Sensitive, intuitive, connects the group
+- **Personality:** Sensitive, intuitive, connects the group, usually calm and deep but can have storming emotional outbursts.
 - **Plot role:** Picks up emotions and visions; reveals the hidden flow in the plot
 - **Musical style:** Dreamy-ethereal EDM; "crystalline" reverb layers; rock-dreamy touches
 - **Past Secret:** [To be revealed in a later season] - She has been secretly communicating with the enslaved species through her dreams for years, acting as a double agent and feeding information to the resistance while pretending to be a loyal member of the dominant species.
@@ -194,7 +197,7 @@ Each character will have a unique ot, and each ot will have a unique meaning and
 - Communal decision-making through emotional resonance
 - Deep spiritual connection to water and dreams
 
-**Role in Story:** Another enslaved species, forced to work in underwater mining operations and provide aquatic resources. Matar has a special connection to them through her dream communications.
+**Role in Story:** Another enslaved species, forced to work in underwater mining operations and provide aquatic resources. Matar has a special connection (mainly) to them through her dream communications.
 
 **Musical Style:** Flowing, ethereal, with water sounds and dreamy melodies. Their music is deeply emotional and intuitive.
 
