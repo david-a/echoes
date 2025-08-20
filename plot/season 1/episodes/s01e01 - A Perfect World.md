@@ -147,7 +147,7 @@ AYALA: (to herself, frowning slightly) Wow.. That was a bit harsh..
 [Verse 1]
 Candy‑coated city lights
 Bitter aftertaste tonight
-Polished smiles, masking loss
+Polished smiles, magic sauce
 Hairline cracks behind the gloss
 
 [Chorus]
@@ -156,11 +156,18 @@ I can see through your disguise
 Perfect world, endless pain
 I won't turn away again
 
-[Verse 2]
-Quiet quotas, colder laws
-Empty slogans on the walls
-Little hands still building towers
-While the rich ones touch the sky
+[Verse 2 - Talk rap]
+Okay—talk to me, real slow, real low
+"Smile. Comply." That's the mantra they sold
+Sidewalks mutter names I don't even know
+
+Posters preach "Order," the alley sells "Hunger"
+Timecards prints scars; sirens scream like thunder
+I ask, is this normal? "Depends on your color"
+
+How could I miss it? it feels like a complete change of heart
+If perfect is a script, who gets a speaking part?
+I'm done playing a role in this crooked act
 
 [Chorus]
 Perfect world, perfect lies
