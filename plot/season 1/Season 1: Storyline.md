@@ -3,7 +3,7 @@
 ## Season Overview
 
 **Theme:** Awakening and Discovery
-**Episodes:** 12 episodes (1:30-2 minutes each)
+**Episodes:** 12 episodes (2/3/5 minutes each TBD)
 **Arc:** Three heroes from the dominant species gradually awaken to the injustice around them (understanding they've been rasied and taught to normalize others' suffering and oppression) and begin their journey of resistance.
 **Musical Focus:** Each episode features the highlighted character singing their perspective, with occasional duets or ensemble moments.
 **Secret Setup:** Subtle hints about each hero's mysterious past are planted throughout the season, setting up revelations in future seasons. The audience discovers Inbar and Matar mid-operation, requiring them to piece together information about their complex backstory.

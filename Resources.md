@@ -2,7 +2,7 @@
 
 ## General Concept
 
-The series is a short-episode musical animation (up to two minutes per episode) that will be published on Instagram and YouTube.
+The series is a short-episode musical animation (up to 5 minutes per episode) that will be published on Instagram and YouTube.
 Each episode features an original song that corresponds with the theme or plot situation.
 Goal: Promote music channels (Spotify, etc.), build an audience around the series, and eventually live performances.
 
@@ -17,7 +17,7 @@ Tone: Light, enjoyable, with subtle tension and dark humor.
 
 ## Episode Structure
 
-- Length: 1:30--2 minutes
+- Length: 2/3/5 minutes (TBD)
 - Opening: A short scene presenting a problem/situation
 - Body: Action or discovery by the characters
 - Song (30--60 seconds) reflecting a perspective or emotion
@@ -79,7 +79,7 @@ Each character will have a unique ot, and each ot will have a unique meaning and
 
 **Mystical Depth:** The ancient Hebrew alphabet carries thousands of years of mystical tradition, from Kabbalistic interpretations to ancient Mesopotamian cosmology. This provides a rich foundation for exploring themes of creation, destruction, wisdom, and the nature of reality itself.
 
-**Cultural Authenticity:** By drawing from authentic ancient sources rather than generic fantasy tropes, the series can appeal to audiences interested in real historical mythology while creating a unique, memorable world that stands out in the crowded animation market.
+**Cultural Authenticity:** By drawing from authentic ancient sources rather than generic fantasy tropes, the series can appeal to audiences interested in real historical mythology while creating a unique, memorable world that stands out in the crowded animation market. Each species will have a unique culture and history, to slowly reveal as the series progresses, e.g. slipping a few words in ancient language (each species has its own language - Hebrew, Phoenician, Akkadian, Sumerian, Babylonian, etc.) here and there.
 
 ## Characters - Heroes
 
@@ -148,6 +148,8 @@ Each character will have a unique ot, and each ot will have a unique meaning and
 
 **Demonym:** Enoshi
 
+**Ancient Language:** Hebrew (enough modern to be understandable and integrated in more songs since this is the main species of the heros and antagonists)
+
 **Physical Traits:** Tall, elegant humanoids with luminous eyes that change color based on emotion. Their skin has a subtle iridescent quality, and they possess elongated, pointed ears. They have an innate ability to manipulate energy fields around them.
 
 **Culture & Society:**
@@ -166,6 +168,8 @@ Each character will have a unique ot, and each ot will have a unique meaning and
 ### 2. The Sylvari (Forest Dwellers)
 
 **Demonym:** Sylvari
+
+**Ancient Language:** Ancient Akkadian
 
 **Physical Traits:** Plant-human hybrids with bark-like skin that changes color with seasons. They have leaf-like hair and can photosynthesize. Their eyes are large and green, with the ability to see in complete darkness.
 
@@ -186,6 +190,8 @@ Each character will have a unique ot, and each ot will have a unique meaning and
 
 **Demonym:** Aquarii
 
+**Ancient Language:** Babylonian
+
 **Physical Traits:** Amphibious humanoids with gill-like structures on their necks and webbed hands and feet. Their skin is smooth and slightly translucent, with bioluminescent patterns that communicate emotions. They can breathe both air and water.
 
 **Culture & Society:**
@@ -204,6 +210,8 @@ Each character will have a unique ot, and each ot will have a unique meaning and
 ### 4. The Ferox (Wild Ones)
 
 **Demonym:** Feroxi
+
+**Ancient Language:** Phoenician
 
 **Physical Traits:** Beast-like humanoids with animal features (claws, fangs, enhanced senses). They have fur or scales depending on their animal heritage, and can partially transform into their animal forms. They possess enhanced strength and agility.
 
@@ -224,6 +232,8 @@ Each character will have a unique ot, and each ot will have a unique meaning and
 
 **Demonym:** Mechana
 
+**Ancient Language:** Hebrew mixed with Latin (since they were created by the Enosh but developed a mechanical culture and language)
+
 **Physical Traits:** Partially mechanical humanoids with cybernetic enhancements. They have metallic skin with glowing circuits, and some have replaceable limbs or sensory organs. They can interface directly with technology.
 
 **Culture & Society:**
@@ -243,6 +253,8 @@ Each character will have a unique ot, and each ot will have a unique meaning and
 
 **Demonym:** Umbral
 
+**Ancient Language:** Aramaic (language of Kabbalah, secretive and mystical)
+
 **Physical Traits:** Dark-skinned humanoids with the ability to blend into shadows and manipulate darkness. They have reflective eyes that can see in complete darkness, and can create shadow constructs. They are naturally stealthy and elusive.
 
 **Culture & Society:**
@@ -261,6 +273,8 @@ Each character will have a unique ot, and each ot will have a unique meaning and
 ### 7. The Celestials (Dimensional Wanderers)
 
 **Demonym:** Celestial
+
+**Ancient Language:** Mixed (They speak an unknown language, but sound to each person as like they're speaking his/her own language)
 
 **Physical Traits:** Ethereal beings that seem to exist partially in other dimensions. They have translucent, star-like skin and can phase between realities. Their appearance is constantly shifting and hard to focus on.
 
@@ -306,6 +320,20 @@ Each character will have a unique ot, and each ot will have a unique meaning and
 - Each species has a different understanding of what's happening
 
 ## Future Directions
+
+---
+
+## S01 Visual Constraints and Reveal Policy (Production)
+
+- The Golden City’s floating nature is not revealed until the S01 finale. Avoid frames that expose edges, underside, or horizons implying elevation.
+- S01 shows a miniaturized, urbanized version of each species’ natural habitat embedded inside the Golden City.
+- Species differences are subtle in S01 to allow identity ambiguity (e.g., Ayala appears Enoshi while being Feroxi). Use minimal markers: eyes/skin undertone, fabric/texture motifs, posture.
+- Signage/UI stay non‑linguistic. Use abstract icons, waveforms, and patterns—no readable text.
+- Crowd shots favor silhouettes and mid‑distance extras to maintain production efficiency and subtlety.
+
+## S01 Asset Kit Reference
+
+See `Resources Design - S01 Assets.md` for detailed prompts and asset lists for: Golden City plates, mini‑habitats, street props, extras, enforcers, and UI/HUD motifs.
 
 - Each episode emphasizes a different character and develops their power and music.
 - The audience will gradually be exposed to the subtext of the metaphor (exploitation/liberation).

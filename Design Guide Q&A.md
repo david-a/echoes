@@ -24,7 +24,7 @@
    - Q: What's the target animation quality level? (simple/limited animation vs. fluid/complex)
    - A: limited animation for background, fluid/complex for characters.
    - Q: Any specific animation techniques you want to emphasize (particle effects, camera movements, etc.)?
-   - A: natural-looking 3D-like effects, emotional expressions, and fluid movements.
+   - A: natural-looking 3D-like effects, emotional expressions, and fluid movements. Maintain S01 reveal policy: avoid any frames that expose the Golden City as floating; keep vistas occluded.
 
 ## **Character Design Questions:**
 
@@ -96,11 +96,23 @@
 10. **Setting & Environment:**
 
 - Q: What should the dominant species' city look like? (futuristic, medieval, industrial, etc.)
-- A: Floating cities above the surface world with advanced technology and elegant architecture. The cities should appear perfect and orderly, with clean lines and sophisticated design. They should contrast sharply with the suffering happening below the surface.
+- A: An advanced, elegant city (the Golden City) with perfect order, refined materials, and sophisticated design. In S01, we avoid revealing that it is floating—frames are composed to keep edges and horizons occluded. The city contrasts sharply with the suffering happening below the surface.
 - Q: How should the underground resistance network appear?
-- A: Hidden tunnels and chambers carved into the earth, with a mix of natural formations and makeshift technology. It should feel warm and alive compared to the cold perfection of the cities above, with evidence of different species working together.
+- A: Hidden tunnels and chambers within the city’s industrial belt and abandoned sites, mixing natural textures and makeshift tech. Warm and alive compared to the cold perfection above, with evidence of different species working together.
 - Q: What should sacred sites and ancient otot locations look like?
-- A: Ancient, mystical locations with glowing otot carved into stone or crystal. They should have an otherworldly quality with dimensional energy visible, and should feel both ancient and powerful. The atmosphere should be reverent and mysterious.
+- A: Ancient, mystical locations with glowing otot carved into stone or crystal. In S01, only glimpses in interiors or occluded courtyards; other regions (forests/oceans) will be shown in later seasons.
+
+11. **Species in S01 (Subtlety & Mini‑Habitats):**
+
+- Q: How distinct should the species look in S01?
+- A: Unique but subtle. Use minimal markers (eye luminance, hair/skin textures, posture, fabric motifs) to allow identity ambiguity (e.g., Ayala appears Enoshi while being Feroxi).
+- Q: Where do species live in S01?
+- A: In miniaturized, urbanized pockets of their natural habitats embedded inside the Golden City (Sylvari atriums, Aquarii canals, Ferox alleys, Mechani tunnels, Umbra arcades).
+
+12. **Reveal Policy:**
+
+- Q: When do we reveal that the city floats?
+- A: Only at the S01 finale cliffhanger. Composition and lighting must avoid revealing clues earlier.
 
 11. **Technology & Magic:**
 
