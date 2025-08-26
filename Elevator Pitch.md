@@ -2,7 +2,7 @@
 
 ## **The Hook (30 seconds)**
 
-**"Echoes: Worlds Collide"** is a groundbreaking animated music series where every episode is a 2-minute musical journey through a sci-fi universe on the brink of dimensional collapse. Three heroes with mysterious pasts awaken to discover they're not just fighting for freedom—they're fighting to prevent reality itself from unraveling.
+**"Echoes: Worlds Collide"** is a groundbreaking animated music series where every episode is a (2/3/5 TBD)-minute musical journey through a sci-fi universe on the brink of dimensional collapse. Three heroes with mysterious pasts awaken to discover they're not just fighting for freedom—they're fighting to prevent reality itself from unraveling.
 
 ## **The Concept (60 seconds)**
 
