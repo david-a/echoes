@@ -1,2 +1,14 @@
 .DS_Store
 DS_Store
+
+graphics/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+**/Icon

@@ -323,6 +323,49 @@ Each character will have a unique ot, and each ot will have a unique meaning and
 
 ---
 
+## Character Introduction Videos
+
+### Ayala's Selfie Intro Video
+
+**Concept:** A selfie-style video introduction featuring Ayala in her cozy bedroom setting, creating an intimate connection with the audience before episodes.
+
+**Visual Setting:**
+
+- Cozy bedroom with warm, natural sunlight streaming through windows
+- Ayala seated on her bed with chunky knit blankets
+- Glowing cyan energy patterns visible on her arms (her ot activation)
+- Pointed elf-like ears and warm golden-brown eyes
+- Simple, comfortable clothing (light beige tank top)
+
+**Script Options:**
+
+**Option 1 - Playful & Energetic:**
+"Morning, party people! How are you all feeling today? Are you ready to unravel some glitter? I know I am!"
+
+**Option 2 - Mysterious & Intriguing:**
+"Hey there, dreamers! Ready to dive into something wild? Because trust me, today's going to be... interesting."
+
+**Option 3 - Character-Specific:**
+"Good morning, beautiful people! Ready to chase some trouble? Because I've got a feeling today's the day everything changes."
+
+**Tone Guidelines:**
+
+- Keep it authentic to Ayala's playful, unpredictable personality
+- Include subtle hints about her true Ferox origins without revealing too much
+- Use her glowing energy patterns as visual interest
+- Maintain the cozy, intimate selfie aesthetic
+- Keep dialogue partially vague, hinting at continuation of previous conversations
+
+**Production Notes:**
+
+- Use the existing bedroom image as reference for lighting and setting
+- Emphasize the warm, natural lighting and sunbeams
+- Include subtle movement (hair swaying, slight head tilts)
+- Keep the energy patterns glowing subtly throughout
+- 15-30 second duration for social media optimization
+
+---
+
 ## S01 Visual Constraints and Reveal Policy (Production)
 
 - The Golden City’s floating nature is not revealed until the S01 finale. Avoid frames that expose edges, underside, or horizons implying elevation.
